@@ -8,14 +8,11 @@ function happyHolidaysTo(name){
 }
 //
 function happyHolidayTo(happyHolidayTo, name){
-//
 return ("${happyHolidayTo}, ${name}")
 // }
 //
 function holidayCountdown(holiday, days){
-
-//
- return ("It's " ${days} "until ", ${holiday})
+return ("It's " ${days} "until ", ${holiday})
 //
 
 //   }
