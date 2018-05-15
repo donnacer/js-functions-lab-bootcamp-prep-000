@@ -7,6 +7,3 @@ function happyHolidaysTo(name){
  return  ` Happy holidays, ${name}!`
 }
 //
-function happyHolidayTo(holiday, mame){
-  return ` "Happy ${holiday}, ${name}!" `
-}
